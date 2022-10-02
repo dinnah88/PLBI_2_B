@@ -27,13 +27,13 @@ A Business Intelligence Product Data (Dashboard) on a Brazil E-Commerce Performa
 
 
 ## **Data Pre-processing**
-  We encourage you to go download our code and open them in Google Collab. You may need to alter some of the import file code if you want to open it from Jupyter Notebook.
+  We encourage you to go download our code (Data Source is at the bottom of this readme), and open them in Google Collab. You may need to alter some of the import file code if you want to open it from Jupyter Notebook.
 
 [](https://drive.google.com/uc?id=1Ii_2O9nr-oZE1NC7skDeoaMNLBB7Pc6X)
 
 See our Easy Report which captures the whole story and process behind this project.
 
-[File Source](https://docs.google.com/spreadsheets/d/18KU6qUlrrretAxLVVk7EjIDiijNnWPoP/edit?usp=sharing&ouid=109000084097965733682&rtpof=true&sd=true)
+[Data Source](https://docs.google.com/spreadsheets/d/18KU6qUlrrretAxLVVk7EjIDiijNnWPoP/edit?usp=sharing&ouid=109000084097965733682&rtpof=true&sd=true)
 [Translated Review](https://docs.google.com/spreadsheets/d/1WVjHydFFXRwgTXv0kYfMVGGu73ykLRbW/edit?usp=sharing&ouid=109000084097965733682&rtpof=true&sd=true)
 
 =====THANK YOU=====
