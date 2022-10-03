@@ -14,22 +14,22 @@ A Business Intelligence Product Data (Dashboard) on a Brazil E-Commerce Performa
 
 ## **Dashboard Features**
 - C-levels dashboard with prime key metrics from all departments; sales, marketing.
-[](https://drive.google.com/uc?id=190KQaQ3fDddhe7Tid8GuMoLcm-TZU9po)
+![](https://drive.google.com/drive/u/0/folders/1yW0tiOC2Bs2pUcr6KirOs5-1TrUr6WAA)
 
 - Sales: in one glimpse, the dashboard is divided into 3 parts for product sales performance, seller performance and contribution by state, and the third is customer review and the sentiment they give.
-[](https://drive.google.com/uc?id=16GPSu7OTxW8fPks4dJXDKjkpzQYZmTFe)
+![](https://drive.google.com/drive/u/0/folders/1yW0tiOC2Bs2pUcr6KirOs5-1TrUr6WAA)
 
 - Marketing: acceptance rate for each promo campaign, customer segmentation proportion to give a slight information of who is the majority of the customer, and also RFM (Recency, Frequency, Monetary) segmentation to give the information of customer profiling and what to do with them in the future.
-[](https://drive.google.com/uc?id=1SLkB3-4qwX2zG8AX_6_AY9HdTL2BoiAJ)
+![](https://drive.google.com/drive/u/0/folders/1yW0tiOC2Bs2pUcr6KirOs5-1TrUr6WAA)
 
 - Bisdev: to give information on which group, whether control or treatment group, whose conversion is significantly better than the other, to give a slight info on daily conversion and if the p-value is smaller than 0.05, with accumulative power daily to see if the sampling is strong enough to represent the population.
-[](https://drive.google.com/uc?id=1mMdwtcMAyY6VaeDpGciUtdXid4C-9ZwH)
+![](https://drive.google.com/drive/u/0/folders/1yW0tiOC2Bs2pUcr6KirOs5-1TrUr6WAA)
 
 
 ## **Data Pre-processing**
   We encourage you to go download our code (Data Source is at the bottom of this readme), and open them in Google Collab. You may need to alter some of the import file code if you want to open it from Jupyter Notebook.
 
-[](https://drive.google.com/uc?id=1Ii_2O9nr-oZE1NC7skDeoaMNLBB7Pc6X)
+![](https://drive.google.com/drive/u/0/folders/1nFxaTa8bAvcG7XYtKNN01iN5NryNCey1)
 
 See our Easy Report which captures the whole story and process behind this project.
 
